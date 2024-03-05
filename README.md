@@ -10,8 +10,8 @@
     <img
       src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE"
       alt="bootstrap"
-      width="40"
-      height="40"
+      width="auto"
+      height="auto"
     />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
