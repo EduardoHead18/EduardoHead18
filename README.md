@@ -20,6 +20,22 @@
       height="auto"
     />
   </a>
+   <a href="#" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"
+      alt="mariadb"
+      width="auto"
+      height="auto"
+    />
+  </a>
+     <a href="#" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+      alt="mongodb"
+      width="auto"
+      height="auto"
+    />
+  </a>
 
   <a href="#" target="_blank" rel="noreferrer">
     <img
