@@ -1,7 +1,6 @@
 <h1>Hi 👋, I'm Eduardo</h1>
   </br>
 <h3>A software engineer from México.</h3>
-  </br>
 <h4 align="left">Languages and Tools:</h4>
   </br>
 <p align="left" style="background-color: bisque;">
