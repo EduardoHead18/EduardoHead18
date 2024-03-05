@@ -73,6 +73,14 @@
       height="auto"
     />
   </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
+      alt="redux"
+      width="auto"
+      height="auto"
+    />
+  </a>
    <a href="#" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"
@@ -129,6 +137,31 @@
       height="auto"
     />
   </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+      alt="react-native"
+      width="auto"
+      height="auto"
+    />
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"
+      alt="hibernate"
+      width="auto"
+      height="auto"
+    />
+  </a>
+    <a href="#" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+      alt="github"
+      width="auto"
+      height="auto"
+    />
+  </a>
+
   
 
   
